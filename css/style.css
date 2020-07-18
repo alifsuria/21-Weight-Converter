@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+}
+
+.display {
+  font-size: 3rem;
+  height: 150px;
+}
+
+.hide {
+  display: none;
+  font-size: 15px;
+}
+
+.no-error {
+  font-size: 3rem;
+}
